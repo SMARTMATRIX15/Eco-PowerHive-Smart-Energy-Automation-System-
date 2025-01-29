@@ -2,3 +2,8 @@
 *.so filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
 /Users/divyanshdusad/Desktop/yoloV8arduino/human_detection_webcam-IIITL.py filter=lfs diff=lfs merge=lfs -text
+myenv/lib/python3.12/site-packages/jaxlib/mlir/_mlir_libs/libjaxlib_mlir_capi.dylib filter=lfs diff=lfs merge=lfs -text
+yolov8m-pose.pt filter=lfs diff=lfs merge=lfs -text
+myenv/lib/python3.12/site-packages/mediapipe/python/_framework_bindings.cpython-312-darwin.so filter=lfs diff=lfs merge=lfs -text
+myenv/lib/python3.12/site-packages/jaxlib/xla_extension.so filter=lfs diff=lfs merge=lfs -text
+myenv/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
