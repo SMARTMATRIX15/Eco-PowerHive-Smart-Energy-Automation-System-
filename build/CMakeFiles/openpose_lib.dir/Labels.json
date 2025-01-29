@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/divyanshdusad/Desktop/yoloV8arduino/build/CMakeFiles/openpose_lib"
+		},
+		{
+			"file" : "/Users/divyanshdusad/Desktop/yoloV8arduino/build/CMakeFiles/openpose_lib.rule"
+		},
+		{
+			"file" : "/Users/divyanshdusad/Desktop/yoloV8arduino/build/CMakeFiles/openpose_lib-complete.rule"
+		},
+		{
+			"file" : "/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-build.rule"
+		},
+		{
+			"file" : "/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-configure.rule"
+		},
+		{
+			"file" : "/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-download.rule"
+		},
+		{
+			"file" : "/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-install.rule"
+		},
+		{
+			"file" : "/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-mkdir.rule"
+		},
+		{
+			"file" : "/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-patch.rule"
+		},
+		{
+			"file" : "/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openpose_lib"
+		],
+		"name" : "openpose_lib"
+	}
+}

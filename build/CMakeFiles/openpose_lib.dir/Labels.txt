@@ -1,0 +1,13 @@
+# Target labels
+ openpose_lib
+# Source files and their labels
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/CMakeFiles/openpose_lib
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/CMakeFiles/openpose_lib.rule
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/CMakeFiles/openpose_lib-complete.rule
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-build.rule
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-configure.rule
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-download.rule
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-install.rule
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-mkdir.rule
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-patch.rule
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/caffe/src/openpose_lib-stamp/openpose_lib-update.rule

@@ -1,0 +1,3 @@
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/CMakeFiles/openpose_lib.dir
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/CMakeFiles/edit_cache.dir
+/Users/divyanshdusad/Desktop/yoloV8arduino/build/CMakeFiles/rebuild_cache.dir
