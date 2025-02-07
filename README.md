@@ -16,3 +16,10 @@
    git clone https://github.com/SMARTMATRIX15/Eco-PowerHive-Smart-Energy-Automation-Sys.git
    cd Eco-PowerHive-Smart-Energy-Automation-System
 
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+🤝 Connect with Us
+🌐 Website: [Coming Soon]
+📧 Email: brainuplabs@gmail.com
+📘 LinkedIn: Brain Up Labs
