@@ -9,6 +9,13 @@ from torchvision import models
 import clip
 import mediapipe as mp
 import numpy as np
+import json
+
+with open("config.json", "r") as f:
+    config = json.load(f)
+
+print("Energy Saving Threshold:", config["thresholds"]["energy_saving_mode"])
+
 
 # Initialize YOLOv8 model
 model_yolo = YOLO("yolov8m.pt")

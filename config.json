@@ -1,0 +1,10 @@
+{
+    "thresholds": {
+        "energy_saving_mode": 50,
+        "high_usage_alert": 80
+    },
+    "automation": {
+        "turn_off_unused_devices": true,
+        "adjust_lighting": true
+    }
+}

@@ -175,3 +175,15 @@ __pycache__/
 .DS_Store
 .env
 *.pyc
+
+# Ignore models
+models/
+*.pt
+
+# Ignore logs and outputs
+logs/
+outputs/
+
+# Ignore virtual environment
+myenv/
+venv/
