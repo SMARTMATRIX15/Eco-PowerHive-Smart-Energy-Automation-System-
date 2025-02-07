@@ -21,5 +21,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 🤝 Connect with Us
 🌐 Website: [Coming Soon]
-📧 Email: brainuplabs@gmail.com
+📧 Email:contact@brainuplabs.com
 📘 LinkedIn: Brain Up Labs
